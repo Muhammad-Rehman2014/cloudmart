@@ -16,8 +16,6 @@ spec:
       containers:
       - name: cloudmart-frontend-app
         image: CONTAINER_IMAGE
----
-
 apiVersion: v1
 kind: Service
 metadata:
