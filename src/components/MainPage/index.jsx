@@ -92,7 +92,6 @@ const CloudMartMainPage = () => {
         <div className="flex justify-between items-center mb-6">
 <<<<<<< HEAD
           <h2 className="text-2xl font-bold">Featured Products New</h2>
-=======
           <h2 className="text-2xl font-bold">Featured Products New</h2>
 >>>>>>> 2b7c52e78622e19d62c4efb0911b207f2120af95
           <div className="relative">
